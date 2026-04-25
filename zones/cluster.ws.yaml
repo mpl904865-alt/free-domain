@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+
 alicexue: [dns1.serv00.com, dns2.serv00.com]
 nxtcoder19: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cal: [hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com, helium.ns.hetzner.de] # Register cal.cluster.ws
@@ -333,3 +334,4 @@ awinds: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
 container: [ns-618.awsdns-13.net, ns-1522.awsdns-62.org, ns-410.awsdns-51.com, ns-1997.awsdns-57.co.uk]
 anan: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+ihatemyself: [ns71.cloudns.net, ns72.cloudns.com, ns73.cloudns.net, ns74.cloudns.uk]
